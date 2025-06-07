@@ -1,16 +1,115 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>महिला रोज़गार माह - Even Cargo</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #fff8f0;
+      color: #333;
+    }
+    header {
+      background-color: #ff5c8a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    header img {
+      height: 60px;
+    }
+    .banner {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 20px;
+      padding: 20px;
+    }
+    .banner img {
+      max-width: 200px;
+      border-radius: 8px;
+    }
+    .main {
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    .highlight {
+      color: #8B0000;
+      font-weight: bold;
+      font-size: 24px;
+      text-align: center;
+      margin-top: 20px;
+    }
+    .features {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      margin-top: 20px;
+    }
+    .feature {
+      width: 48%;
+      background: #ffe6eb;
+      padding: 15px;
+      margin-bottom: 10px;
+      border-radius: 10px;
+    }
+    footer {
+      background: #ff5c8a;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    .contact {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+    .contact a {
+      color: #fff;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
 
-<!--
-**mahilarozgarmah/mahilarozgarmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<header>
+  <img src="https://i.ibb.co/Qm3nLpj/even-cargo-logo.png" alt="Even Cargo Logo" />
+  <h1>महिला रोज़गार माह</h1>
+</header>
 
-Here are some ideas to get you started:
+<section class="banner">
+  <img src="https://i.ibb.co/nkD5kJH/image1.png" alt="Delivery Women" />
+  <img src="https://i.ibb.co/WFtPz1v/image2.png" alt="Parcel Delivery" />
+  <img src="https://i.ibb.co/5jMJtXb/image3.png" alt="Delivery Rider" />
+</section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div class="main">
+  <p>इवन कार्गो भारत की पहली महिला संचालित लॉजिस्टिक्स कंपनी है, जिसकी शुरुआत 2016 में हुई थी ताकि महिलाओं को सुरक्षित, सम्मानजनक और समान रोजगार के अवसर मिल सकें।</p>
+  <p>महिला रोजगार माह 2023 के तहत, हम नई दिल्ली एनसीआर में महिलाओं के लिए रोजगार के नए अवसरों को सशक्त बनाने हेतु एक विशेष अभियान शुरू कर रहे हैं।</p>
+
+  <div class="highlight">एक कदम आपके साथ – जानें कैसे</div>
+
+  <div class="features">
+    <div class="feature">आउटरिच और नेटवर्किंग में सहयोग करें</div>
+    <div class="feature">जागरूकता कार्यक्रम चलाएं</div>
+    <div class="feature">रोजगार और आवागमन साधन में मदद करें</div>
+    <div class="feature">लॉजिस्टिक्स की दुनिया में महिलाओं को जोड़ें</div>
+  </div>
+
+  <div class="contact">
+    <p><strong>काम की बात, नारी के साथ</strong></p>
+    <p>Email: <a href="mailto:contact@evencargo.in">contact@evencargo.in</a></p>
+    <p>Contact: <a href="tel:+919667167244">+91 9667167244</a>, <a href="tel:+919667167448">9667167448</a>, <a href="tel:+918448739003">8448739003</a></p>
+  </div>
+</div>
+
+<footer>
+  © 2025 Even Cargo | Empowering Women through Logistics
+</footer>
+
+</body>
+</html>
